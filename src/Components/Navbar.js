@@ -23,7 +23,7 @@ export const navbar = () =>{
 							quy trình</a></li>
 						<li className="nav-item dropdown">
 							
-							<a href="dich-vu.html" className="nav-link  text-capitalize  dropdown-toggle " >
+							<a href="DichVu.html" className="nav-link  text-capitalize  dropdown-toggle " >
 												dịch vụ</a>
 						
 							<ul className="dropdown-menu mx-0" >
