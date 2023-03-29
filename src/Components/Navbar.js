@@ -9,7 +9,7 @@ export const navbar = () =>{
 				<div className="container">
 					<ul className=" nav navbar-nav d-flex nav1 justify-content-center">
 						<li className="nav-item ">
-							<a href="index.html" className="nav-link text-capitalize nav-button">
+							<a href="Home" className="nav-link text-capitalize nav-button">
 								<svg>
 									<rect x="0" y="0" fill="none" width="100%" height="100%">
 									</rect>
@@ -23,7 +23,7 @@ export const navbar = () =>{
 							quy trình</a></li>
 						<li className="nav-item dropdown">
 							
-							<a href="DichVu.html" className="nav-link  text-capitalize  dropdown-toggle " >
+							<a href="DichVu" className="nav-link  text-capitalize  dropdown-toggle " >
 												dịch vụ</a>
 						
 							<ul className="dropdown-menu mx-0" >
@@ -38,14 +38,14 @@ export const navbar = () =>{
 							</ul>
 						</li>
 						<li className="nav-item">
-							<a href="bang-gia.html" className="nav-link text-capitalize nav-button">
+							<a href="BangGia" className="nav-link text-capitalize nav-button">
 							<svg>
 								<rect x="0" y="0" fill="none" width="100%" height="100%">
 								</rect>
 							</svg>
 							bảng giá</a></li>
 						<li className="nav-item dropdown">
-							<a href="blog-nha-khoa.html" className="nav-link text-capitalize  dropdown-toggle" >
+							<a href="Blog" className="nav-link text-capitalize  dropdown-toggle" >
 							Blog nha khoa</a>
 							<ul className="dropdown-menu ms-0" >
 								<li className="dropdown-item"><a href="blog-rang-implant.html">Trồng Răng Implant</a></li>
@@ -61,7 +61,7 @@ export const navbar = () =>{
 						</li>
 
 						<li className="nav-item">
-							<a href="lien-he.html" className="nav-link text-capitalize nav-button">
+							<a href="LienHe" className="nav-link text-capitalize nav-button">
 							<svg>
 								<rect x="0" y="0" fill="none" width="100%" height="100%">
 								</rect>
