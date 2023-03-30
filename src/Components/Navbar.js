@@ -48,14 +48,14 @@ export const navbar = () =>{
 							<a href="Blog" className="nav-link text-capitalize  dropdown-toggle" >
 							Blog nha khoa</a>
 							<ul className="dropdown-menu ms-0" >
-								<li className="dropdown-item"><a href="blog-rang-implant.html">Trồng Răng Implant</a></li>
-								<li className="dropdown-item"><a href="blog-nieng-rang.html">Niềng Răng</a></li>
-								<li className="dropdown-item"><a href="blog-Mat-Dan-Su.html">Dán Sứ Veneer</a></li>
-								<li className="dropdown-item"><a href="blog-Boc-Rang-Su.html">Bọc Răng Sứ</a></li>
-								<li className="dropdown-item"><a href="blog-Nho-Rang.html">Nhổ Răng</a></li>
-								<li className="dropdown-item"><a href="blog-Han-Tram-Rang.html">Hàn - Trám Răng</a></li>
-								<li className="dropdown-item"><a href="blog-Tay-Trang-Rang.html">Tẩy Trắng Răng</a></li>
-								<li className="dropdown-item"><a href="blog-Đieu-Tri-Tuy.html">Điều Trị Tuỷ</a></li>
+								<li className="dropdown-item"><a href="BlogRangImplant">Trồng Răng Implant</a></li>
+								<li className="dropdown-item"><a href="BlogNiengRang">Niềng Răng</a></li>
+								<li className="dropdown-item"><a href="BlogDanMatSu">Dán Sứ Veneer</a></li>
+								<li className="dropdown-item"><a href="BlogBocRangSu">Bọc Răng Sứ</a></li>
+								<li className="dropdown-item"><a href="BlogNhoRang">Nhổ Răng</a></li>
+								<li className="dropdown-item"><a href="BlogHanTramRang">Hàn - Trám Răng</a></li>
+								<li className="dropdown-item"><a href="BlogTayTrangRang">Tẩy Trắng Răng</a></li>
+								<li className="dropdown-item"><a href="BlogDieuTriTuy">Điều Trị Tuỷ</a></li>
 							</ul>
 							
 						</li>
