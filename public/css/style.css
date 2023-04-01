@@ -193,7 +193,7 @@ table, th, td
 	z-index: 10;
 	border-bottom: 1px solid #ddd;
 	background-color: white;
-	width: 100%
+	width: 100%;
 }
 .dropdown
 {
@@ -304,7 +304,7 @@ table, th, td
 }
 .comment
 {
-	margin: 10px ;
+	padding: 35px 12px 35px 12px;
 }
 .line
 {
@@ -381,20 +381,74 @@ table, th, td
 	padding: 0px;
 	background-image: url( "../images/phong kham 1.png")
 }
-.NhanVien
+.introNhanvien
 {
+	text-align: start;
+}
+.card
+{
+	background: #D9D9D9;
+	justify-content: center;
+	margin: 16px 16px;
+	border-radius: 10px;
+	position: relative;
+}
+.openSpots
+{
+	position: absolute;
+	top: 6px;
+	left: 6px;
+	background-color: #d9d9d9;
+	border-radius: 2px;
+	padding: 0px 9px;
+}
+.name
+{
+	color: #000;
+	padding: 24px;
+}
+.info
+{
+	justify-content: center;
+	text-align: center;
+}
+.info img
+{
+	border-radius: 10px;
+}
+.social-acc
+{
+	margin-bottom: 12px;
+	
+}
+.social-acc button
+{
+	border-radius: 5px;
+	
+}
+.social-acc button:hover
+{
+	background-color: aqua;
+}
+.about
+{
+	color: #000;
+	padding: 0px 12px
+}
+.about p
+{
+	font-size: 12px
+}
+.sociaLink
+{
+	text-align: center;
+	margin: 12px;
+}
+.sociaLink a
+{
+	padding: 16px;
+}
 
-	background-color: #D9D9D9
-}
-.NhanVien p
-{
-	padding: 0px 12px;
-}
-.NhanVien h3
-{
-	padding: 0px 12px;
-	text-align: center
-}
 .sectionLichLV
 {
 	margin-top: 24px;
@@ -573,6 +627,14 @@ table, th, td
 	background-color: #D9D9D9;
 	color: white;
 }
+.tab-pane p
+{
+	margin-top: 12px;
+}
+.tab-pane h3
+{
+	margin-top: 12px;
+}
 /*******************************bang gia end***********************/
 /*******************************blog Trồng Răng Implant***********************/
 .pagination button
@@ -620,8 +682,7 @@ table, th, td
 {
 	border-top: 1px solid #ddd;
 	padding: 12px 12px;
-	margin-top: 24px;
-	text-align: left;
+	margin-top: 24px
 }
 .footer .logo
 {
@@ -645,6 +706,7 @@ table, th, td
 }
 .footer .HeadTitle1
 {
+	margin: 0px;
 	font-weight: 400;
 	font-size: 14px;
 }

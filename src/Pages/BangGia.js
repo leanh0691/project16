@@ -52,36 +52,36 @@ return(
 											<ul>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Khám và Tư vấn</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">Miễn phí</h3></div>
+													<div className="col-6"><h3 className="text-end ">Miễn phí</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Chụp phim toàn hàm Panorama</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">100.000 / 1 Phim</h3></div>
+													<div className="col-6"><h3 className="text-end ">100.000 / 1 Phim</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Chụp phim Cephalometric</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">100.000 / 1 Phim</h3></div>
+													<div className="col-6"><h3 className="text-end ">100.000 / 1 Phim</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Chụp phim CT Conebeam</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">120.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end ">120.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li><li className="row">
 													<div className="col-6"><p className="text-start">Cạo vôi răng, đánh bóng định kỳ</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">150.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end">150.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Cạo vôi răng, đánh bóng 1 lần</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">200.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">200.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Cạo vôi răng, đánh bóng 2 lần</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">200.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">200.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 											</ul>
@@ -90,42 +90,42 @@ return(
 											<ul>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Trám thẩm mỹ răng sau mặt nhai</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">200.000 / 1 Răng</h3></div>
+													<div className="col-6"><h3 className="text-end  ">200.000 / 1 Răng</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Trám thẩm mỹ răng sau mặt bên</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">400.000 / 1 Răng</h3></div>
+													<div className="col-6"><h3 className="text-end  ">400.000 / 1 Răng</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Trám mòn cổ răng</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">300.000 / 1 Răng</h3></div>
+													<div className="col-6"><h3 className="text-end  ">300.000 / 1 Răng</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Trám thẩm mỹ răng trước</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">500.000 / 1 Răng</h3></div>
+													<div className="col-6"><h3 className="text-end  ">500.000 / 1 Răng</h3></div>
 													<div className="col-12 line2"></div>
 												</li><li className="row">
 													<div className="col-6"><p className="text-start">Đắp mặt răng, kẽ răng</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">800.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">800.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Che tuỷ</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">500.000 / 1 Răng</h3></div>
+													<div className="col-6"><h3 className="text-end  ">500.000 / 1 Răng</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 
 												<li className="row">
 													<div className="col-6"><p className="text-start">Đóng chốt trám răng đã chữa tuỷ</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">1.000.000 / 1 Răng</h3></div>
+													<div className="col-6"><h3 className="text-end  ">1.000.000 / 1 Răng</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Đính đá trên răng – Đá của khách hàng</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">300.000 / 1 Răng</h3></div>
+													<div className="col-6"><h3 className="text-end  ">300.000 / 1 Răng</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 											</ul>
@@ -140,41 +140,41 @@ return(
 											<ul>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Tẩy trắng răng tại nhà</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">16.000.000 / 1 Trụ</h3></div>
+													<div className="col-6"><h3 className="text-end  ">16.000.000 / 1 Trụ</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Tẩy trắng răng tại phòng</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">20.000.000 / 1 Trụ</h3></div>
+													<div className="col-6"><h3 className="text-end  ">20.000.000 / 1 Trụ</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Tẩy trắng răng tại phòng + Tại nhà</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">35.000.000 / 1 Trụ</h3></div>
+													<div className="col-6"><h3 className="text-end  ">35.000.000 / 1 Trụ</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Ép máng tẩy trắng</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">120.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">120.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li><li className="row">
 													<div className="col-6"><p className="text-start">Thuốc tẩy trắng răng tại nhà</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">150.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">150.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Thiết kế nụ cười - Digital Smile Design</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">200.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">200.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Mặt dán sứ Veneer IPS Emax Multi</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">200.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">200.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Mặt dán sứ Veneer IPS Emax Press Multi</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">200.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">200.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 											</ul>
@@ -183,47 +183,47 @@ return(
 											<ul>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Inlay - Onlay Composite</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">5.000.000 / 1 Đv ghép</h3></div>
+													<div className="col-6"><h3 className="text-end  ">5.000.000 / 1 Đv ghép</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Inlay - Onlay Sứ</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">20.000.000 / 1 Trụ</h3></div>
+													<div className="col-6"><h3 className="text-end  ">20.000.000 / 1 Trụ</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Răng sứ kim loại Cr - Co</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">35.000.000 / 1 Trụ</h3></div>
+													<div className="col-6"><h3 className="text-end  ">35.000.000 / 1 Trụ</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Răng sứ kim loại Titanium</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">120.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">120.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li><li className="row">
 													<div className="col-6"><p className="text-start">Răng sứ kim loại Quý</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">150.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">150.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Răng toàn sứ Zirconia Cercon</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">200.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">200.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 
 												<li className="row">
 													<div className="col-6"><p className="text-start">Răng toàn sứ Zirconia DD.Bio</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">150.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">150.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Răng toàn sứ IPS Emax Press</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">200.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">200.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Răng toàn sứ Zirconia Lava+ 3M</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">200.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">200.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 											</ul>
@@ -238,31 +238,31 @@ return(
 											<ul>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Trọn gói Implant Hiossen - Hàn Quốc</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">16.000.000 / 1 Trụ</h3></div>
+													<div className="col-6"><h3 className="text-end  ">16.000.000 / 1 Trụ</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Trọn gói Implant ETK - Pháp</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">20.000.000 / 1 Trụ</h3></div>
+													<div className="col-6"><h3 className="text-end  ">20.000.000 / 1 Trụ</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Trọn gói Implant Straumann - Thuỵ Sỹ</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">35.000.000 / 1 Trụ</h3></div>
+													<div className="col-6"><h3 className="text-end  ">35.000.000 / 1 Trụ</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Trọn gói Implant Toàn hàm  Basic</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">120.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">120.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li><li className="row">
 													<div className="col-6"><p className="text-start">Trọn gói Implant Toàn hàm Advanced</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">150.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">150.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Trọn gói Implant Toàn hàm  Premium</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">200.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">200.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 											</ul>
@@ -271,42 +271,42 @@ return(
 											<ul>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Ghép xương + màng</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">5.000.000 / 1 Đv ghép</h3></div>
+													<div className="col-6"><h3 className="text-end  ">5.000.000 / 1 Đv ghép</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Ghép màng PRF</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">20.000.000 / 1 Trụ</h3></div>
+													<div className="col-6"><h3 className="text-end  ">20.000.000 / 1 Trụ</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Ghép biểu mô và mô liên kết nướu</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">35.000.000 / 1 Trụ</h3></div>
+													<div className="col-6"><h3 className="text-end  ">35.000.000 / 1 Trụ</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Nâng xoang kín</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">120.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">120.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li><li className="row">
 													<div className="col-6"><p className="text-start">Nâng xoang hở</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">150.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">150.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Customized Abutment</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">200.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">200.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 
 												<li className="row">
 													<div className="col-6"><p className="text-start">Customized Abutment Zirconia</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">150.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">150.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Phục hình bắt vít trên Multi</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">200.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">200.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 											</ul>
@@ -321,31 +321,31 @@ return(
 											<ul>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Niềng răng mắc cài kim loại mức độ dễ</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">16.000.000 / 1 Trụ</h3></div>
+													<div className="col-6"><h3 className="text-end  ">16.000.000 / 1 Trụ</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Niềng răng mắc cài kim loại mức độ trung bình</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">20.000.000 / 1 Trụ</h3></div>
+													<div className="col-6"><h3 className="text-end  ">20.000.000 / 1 Trụ</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Niềng răng mắc cài kim loại mức độ khó</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">35.000.000 / 1 Trụ</h3></div>
+													<div className="col-6"><h3 className="text-end  ">35.000.000 / 1 Trụ</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Mắc cài sứ</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">120.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">120.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li><li className="row">
 													<div className="col-6"><p className="text-start">Mắc cài tự gài</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">150.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">150.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Kéo đóng khoảng R6,7</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">200.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">200.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 											</ul>
@@ -354,42 +354,42 @@ return(
 											<ul>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Niềng răng trong suốt Invisalign Lite</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">5.000.000 / 1 Đv ghép</h3></div>
+													<div className="col-6"><h3 className="text-end  ">5.000.000 / 1 Đv ghép</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Niềng răng trong suốt Invisalign Moderate Level 1</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">20.000.000 / 1 Trụ</h3></div>
+													<div className="col-6"><h3 className="text-end  ">20.000.000 / 1 Trụ</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Niềng răng trong suốt Invisalign Moderate Level 2</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">35.000.000 / 1 Trụ</h3></div>
+													<div className="col-6"><h3 className="text-end  ">35.000.000 / 1 Trụ</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Niềng răng trong suốt Invisalign Full Level 1</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">120.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">120.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li><li className="row">
 													<div className="col-6"><p className="text-start">Niềng răng trong suốt Invisalign Full Level 2</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">Điều trị rối loạn khớp thái dương hàm bằng máng</h3></div>
+													<div className="col-6"><h3 className="text-end  ">120.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Tạo khoảng phục hình</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">200.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">200.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 
 												<li className="row">
 													<div className="col-6"><p className="text-start">Đánh lún răng</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">150.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">150.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Hàm duy trì chỉnh nha</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">200.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">200.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 											</ul>
@@ -404,31 +404,31 @@ return(
 											<ul>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Nhổ răng cửa vĩnh viễn</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">16.000.000 / 1 Trụ</h3></div>
+													<div className="col-6"><h3 className="text-end  ">16.000.000 / 1 Trụ</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Nhổ răng sau vĩnh viễn</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">20.000.000 / 1 Trụ</h3></div>
+													<div className="col-6"><h3 className="text-end  ">20.000.000 / 1 Trụ</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Nhổ chân răng còn sót lại</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">35.000.000 / 1 Trụ</h3></div>
+													<div className="col-6"><h3 className="text-end  ">35.000.000 / 1 Trụ</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Nhổ răng đã điều trị tuỷ</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">120.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">120.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li><li className="row">
 													<div className="col-6"><p className="text-start">Xử lý ổ răng nhiễm trùng</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">150.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">150.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Nhổ răng khôn hàm trên dễ</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">200.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">200.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 											</ul>
@@ -437,42 +437,42 @@ return(
 											<ul>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Nhổ răng khôn hàm trên khó</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">5.000.000 / 1 Đv ghép</h3></div>
+													<div className="col-6"><h3 className="text-end  ">5.000.000 / 1 Đv ghép</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Nhổ răng khôn tiểu phẫu hàm dưới dễ</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">20.000.000 / 1 Trụ</h3></div>
+													<div className="col-6"><h3 className="text-end  ">20.000.000 / 1 Trụ</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Nhổ răng khôn tiểu phẫu hàm dưới khó</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">35.000.000 / 1 Trụ</h3></div>
+													<div className="col-6"><h3 className="text-end  ">35.000.000 / 1 Trụ</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Nhổ răng tiểu phẫu mọc ngầm dưới xương</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">120.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">120.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li><li className="row">
 													<div className="col-6"><p className="text-start">Nhổ răng tiểu phẫu mọc ngầm dưới xương cực khó</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">150.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">150.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Nhổ răng bằng máy siêu âm Piezotome</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">200.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">200.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 
 												<li className="row">
 													<div className="col-6"><p className="text-start">Nhổ răng kết hợp ghép xương và màng</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">150.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">150.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 												<li className="row">
 													<div className="col-6"><p className="text-start">Nhổ răng sữa</p></div>
-													<div className="col-6"><h3 className="text-end pe-5">200.000.000 / 1 Hàm</h3></div>
+													<div className="col-6"><h3 className="text-end  ">200.000.000 / 1 Hàm</h3></div>
 													<div className="col-12 line2"></div>
 												</li>
 											</ul>
