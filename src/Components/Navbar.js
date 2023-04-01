@@ -27,14 +27,14 @@ export const navbar = () =>{
 												dịch vụ</a>
 						
 							<ul className="dropdown-menu mx-0" >
-								<li className="dropdown-item"><a href="dich-vu-rang-implant.html">Trồng Răng Implant</a></li>
-								<li className="dropdown-item"><a href="dich-vu-nieng-rang.html">Niềng Răng</a></li>
-								<li className="dropdown-item"><a href="dich-vu-Dan-Su-Veneer.html">Dán Sứ Veneer</a></li>
-								<li className="dropdown-item"><a href="dich-vu-Boc-Rang-Su.html">Bọc Răng Sứ</a></li>
-								<li className="dropdown-item"><a href="dich-vu-nho-rang.html">Nhổ Răng</a></li>
-								<li className="dropdown-item"><a href="dich-vu-Han-Tram-Rang.html">Hàn - Trám Răng</a></li>
-								<li className="dropdown-item"><a href="dich-vu-Tay-Trang-Rang.html">Tẩy Trắng Răng</a></li>
-								<li className="dropdown-item"><a href="dich-vu-dieu-Tri-Tuy.html">Điều Trị Tuỷ</a></li>
+								<li className="dropdown-item"><a href="DichVuRangImplant">Trồng Răng Implant</a></li>
+								<li className="dropdown-item"><a href="DichVuNiengRang">Niềng Răng</a></li>
+								<li className="dropdown-item"><a href="DichVuDanSUVeneer">Dán Sứ Veneer</a></li>
+								<li className="dropdown-item"><a href="DichVuBocRangSu">Bọc Răng Sứ</a></li>
+								<li className="dropdown-item"><a href="DichVuNhoRang">Nhổ Răng</a></li>
+								<li className="dropdown-item"><a href="DichVuHanTramRang">Hàn - Trám Răng</a></li>
+								<li className="dropdown-item"><a href="DichVuTayTrangRang">Tẩy Trắng Răng</a></li>
+								<li className="dropdown-item"><a href="DichVuDieuTriTuy">Điều Trị Tuỷ</a></li>
 							</ul>
 						</li>
 						<li className="nav-item">

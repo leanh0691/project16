@@ -1,11 +1,19 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
 import  './App.css';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import  Header from './Components/Header'
 import  Navbar from './Components/Navbar'
 import  Footer from './Components/Footer'
 import DichVu from './Pages/DichVu'
+import DichVuBocRangSu from './Pages/DichVuBocRangSu'
+import DichVuDanSUVeneer from './Pages/DichVuDanSUVeneer'
+import DichVuDieuTriTuy from './Pages/DichVuDieuTriTuy'
+import DichVuHanTramRang from './Pages/DichVuHanTramRang'
+import DichVuNhoRang from './Pages/DichVuNhoRang'
+import DichVuNiengRang from './Pages/DichVuNiengRang'
+import DichVuRangImplant from './Pages/DichVuRangImplant'
+import DichVuTayTrangRang from './Pages/DichVuTayTrangRang'
+
 import BangGia from './Pages/BangGia'
 import Blog from './Pages/Blog'
 import LienHe from './Pages/LienHe'
@@ -38,6 +46,15 @@ function App() {
                 <Route path='/Home' element={<Home />}/>
                 <Route path='/' element={<Home />}/>
                 <Route path='/DichVu' element={<DichVu />}/>
+                <Route path='/DichVuBocRangSu' element={<DichVuBocRangSu />}/>
+                <Route path='/DichVuDanSUVeneer' element={<DichVuDanSUVeneer />}/>
+                <Route path='/DichVuDieuTriTuy' element={<DichVuDieuTriTuy />}/>
+                <Route path='/DichVuHanTramRang' element={<DichVuHanTramRang />}/>
+                <Route path='/DichVuNhoRang' element={<DichVuNhoRang />}/>
+                <Route path='/DichVuNiengRang' element={<DichVuNiengRang />}/>
+                <Route path='/DichVuRangImplant' element={<DichVuRangImplant />}/>
+                <Route path='/DichVuTayTrangRang' element={<DichVuTayTrangRang />}/>
+
                 <Route path='/BangGia' element={<BangGia />}/>
                 <Route path='/Blog' element={<Blog />}/>
                 <Route path='/LienHe' element={<LienHe />}/>
