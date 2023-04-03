@@ -62,10 +62,6 @@ export const navbar = () =>{
 								</rect>
 							</svg>
 							liên hệ</a></li>
-						<li className="nav-item"><a href="https://github.com/leanh0691/project16">
-							<i className="header-icon fa-brands fa-facebook-f"></i></a></li>
-						<li className="nav-item"><a href="https://github.com/leanh0691/project16">
-							<i className="header-icon fa-brands fa-instagram"></i></a></li>
 					</ul>
 				</div>
 			 </div>
