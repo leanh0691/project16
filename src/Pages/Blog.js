@@ -1,7 +1,17 @@
 import React from 'react';
+import items from './../Components/BlogPagesList';
 
 
 const Blog = () => {
+const [menuItems, setMenuItems] = useState(items);
+const filterItems = (category) => {
+    if (category === 'all') {
+      setMenuItems(items);
+      return;
+    }
+    const newItems = items.filter((item) => item.category === category);
+    setMenuItems(newItems);
+  };
 return(
   <div>
 	<div className="container-fluid px-0">
