@@ -22,7 +22,7 @@ return(
 				<div className="col-lg-8 col-md-8 col-sm-12 col-12">
 					<div className="row">
 						<div className="tab-content pt-3">
-							<div className="tab-pane active" id="t1">
+							<div className="tab-pane active show" id="t1">
 								<div className="container px-0">
 									<div className="row">
 										<div className="col-lg-12 col-md-12 col-12">
