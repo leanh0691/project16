@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm isntall`
+Need to run this after cloning the repository viva "git clone https://github.com/leanh0691/project16.git"
+
 ### `npm start`
 
 Runs the app in the development mode.\
